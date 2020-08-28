@@ -1,14 +1,10 @@
 package com.randy.demo;
 
 import io.reactivex.Observable;
-import io.reactivex.Scheduler;
-import io.reactivex.schedulers.Schedulers;
 import org.apache.commons.lang3.StringUtils;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
-import java.util.Arrays;
-import java.util.function.Consumer;
 import java.util.stream.Stream;
 
 /**

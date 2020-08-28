@@ -7,8 +7,6 @@ package com.randy.demo.demo2;
  * @date 2019/9/1 13:09
  */
 
-IManager
-
 public interface IUser {
     /**
      * 用户名称
